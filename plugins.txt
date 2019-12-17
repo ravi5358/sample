@@ -1,0 +1,28 @@
+Veracode-scanner plugin:-
+-------------------------
+This plugin provides a post build action for submitting files for scanning to veracode. ... 
+Provide a comma delimited list of files that you want to scan, the name of the application in Veracode, and override any default scan values
+
+XL Deploy plugin:-
+--------------------
+XL Deploy allows customization using the Java programming language. By implementing a server plugpoint, 
+certain XL Deploy server functionality can be changed to adapt the product to your needs. 
+And if you want to use XL Deploy with new middleware, you can implement a custom plugin.
+
+The XL Deploy Plugin integrates Jenkins with XebiaLabs XL Deploy by adding three post-build actions to your Jenkins installation:
+Package your application
+Publish your deployment package to XL Deploy
+Deploy your application
+==========================================================================================================================
+Maven pipeline integration plugin:-
+------------------------------------
+Pipeline Maven Plugin. This plugin provides maven integration with Pipeline through the withMaven step. 
+Configures maven environment to use within a pipeline job by calling sh mvn or bat mvn . 
+The selected maven installation will be configured and prepended to the path.
+
+Version number plugin 
+Github hook trigger for GITScm polling :- This feature enables builds after post-receive hooks in your GitHub repositories. This trigger only kicks git-plugin internal polling algo for every incoming event against matched repo.
+github-webhook :- Webhooks provide a way for notifications to be delivered to an external web server whenever certain actions occur on a repository or organization
+
+
+wibmo
